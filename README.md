@@ -2,7 +2,7 @@
 
 Hi there 👋
 <br>
-First of all it would be nice for an introduction. Hello, my name is Muhammad Ikbal Maulana, but I am usually called Ibel, Bon, or Ikbal. I live in Bogor, Indonesia. I love studying, coding, sleeping, memes, and animation. 
+First of all it would be nice for an introduction. Hello, my name is Muhammad Ikbal Maulana, but I am usually called Aibel, or Ikbal. I live in Bogor, Indonesia. I love studying, coding, sleeping, memes, and animation. 
 <br>
 
 <!-- Stats -->
