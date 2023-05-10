@@ -1,4 +1,4 @@
-# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjYxZGM5MGQ0NGI5YWI5ZjkxOTdkZmIzMzQ0MGYyMGYwMzY0YTU2YyZjdD1n/ayMW3eqvuP00o/giphy.gif" width="100"> My profile
+# My profile
 
 Hi there 👋
 <br>
@@ -16,7 +16,7 @@ First of all it would be nice for an introduction. Hello, my name is Muhammad Ik
 <!-- Contact me -->
 <details><summary><b>Contact me</b></summary><br>
   
-  <a href="https://iblmln.rf.gd/" target="_blank"><img src="https://www.fortressofsolitude.co.za/wp-content/uploads/2021/04/No-Face-Spirited-Away-770x433.jpeg" width="440"></a><br>  
+  <a href="https://iblmln.rf.gd/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK8qSU1nTVEoD7zOPTAANK6utW7dUTGdSO7w&usqp=CAU" width="440"></a><br>  
   <div align="left">
        <a href="https://github.com/iblmln/" target="_blank"><img src="https://shields.io/badge/iblmln-111111.svg?&style=for-the-badge&logo=github"></a>  
        <a href="https://www.instagram.com/0.iblmln/" target="_blank"><img src="https://shields.io/badge/iblmln-111111.svg?&style=for-the-badge&logo=instagram"></a>  
